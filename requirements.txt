@@ -1,0 +1,6 @@
+streamlit==1.38.0
+folium==0.17.0
+streamlit-folium==0.22.0
+matplotlib==3.9.2
+requests==2.32.3
+geopy==2.4.1
