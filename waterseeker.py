@@ -12,7 +12,7 @@ import json
 # API Keys
 WATSON_API_KEY = st.secrets["WATSON_API_KEY"]
 
-PROJECT_ID = "fb68e11a-259a-4ea0-a88d-7896290a0777"
+PROJECT_ID = "d7260761-7525-4bb8-b618-6f0928271382"
 BASE_URL = "https://us-south.ml.cloud.ibm.com/ml/v1/text/generation?version=2023-05-29"
 
 def get_iam_token(api_key):
