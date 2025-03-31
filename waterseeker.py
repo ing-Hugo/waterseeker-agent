@@ -10,7 +10,7 @@ import time
 import json
 
 # API Keys
-WATSON_API_KEY = st.secrets["WATSON_API_KEY_API_KEY"]
+WATSON_API_KEY = st.secrets["WATSON_API_KEY"]
 API_KEY = "7OCEwn5XIM1soMhG_S821C5YNdNw_zvg51blfrM7WvFq"  # Replace with your IBM Cloud API key
 PROJECT_ID = "fb68e11a-259a-4ea0-a88d-7896290a0777"
 BASE_URL = "https://us-south.ml.cloud.ibm.com/ml/v1/text/generation?version=2023-05-29"
